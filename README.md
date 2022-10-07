@@ -4,6 +4,8 @@ This repository contains the following:
 
 • **index.js** - file that contains the main parser program.
 
+• **package.json and package-lock.json** - npm files and dependencies.
+
 • **README.md** - the current file that you are in which contains information about the repository files and how to use them.
 
 
